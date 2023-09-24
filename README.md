@@ -4,11 +4,11 @@
 
 This project is intended to evalute the effeciency of two different database architectures.
 
-This was motivated a in college debate of the two database architectures, and I wanted to see if I could prove one was better than the other.
+This was motivated by an in-college debate of the two database architectures, and I wanted to see if I could prove one was better than the other.
 
 The two architectures are inside of the tables folder. Use the SQL files `student.sql` and `tutor.sql` to create the tables, then populate them with `student_and_course_data.sql`. (Or use the `setup_databases.py` script, it might take some messing with to get it to work though)
 
-Once that is complete you can run `main.py` and it will run a series of queries on both databases and compare the time it takes to run each query.
+Once that is complete you can run `main.py` and it will run some final setup and then a series of queries on both databases and compare the time it takes to run each query.
 
 ## 2. Testing Methodology
 
