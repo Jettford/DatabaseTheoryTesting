@@ -34,6 +34,7 @@ GROUP BY table_schema;
 ## 3. Results
 
 The results are as follows (times in nano seconds):
+```
     - Database Size:
       - Student: 16384 Bytes
       - Tutor: 16384 Bytes
@@ -49,4 +50,5 @@ The results are as follows (times in nano seconds):
     - Fetch all students for a course
       - Time taken for Student (Average over 100 runs): 2852653.0
       - Time taken for Tutor (Average over 100 runs): 2945956.0
+```
 
